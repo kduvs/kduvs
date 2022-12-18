@@ -2,6 +2,10 @@
 	Ку, я @kduvs!
 </h1>
 
+<!-- [![Моя стата](https://github-readme-stats.vercel.app/api?username=kduvs&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=kduvs&show_icons=true&theme=radical)
+
+[![Мои ЯП](https://github-readme-stats.vercel.app/api/top-langs/?username=kduvs&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=kduvs&layout=compact) -->
+
 С чем прогаю:
 ------------
 
