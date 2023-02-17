@@ -2,6 +2,8 @@
 	Ку, я @kduvs!
 </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kduvs&label=Profile%20views&color=0e75b6&style=flat" alt="kduvs" /> </p>
+
 <!-- [![Моя стата](https://github-readme-stats.vercel.app/api?username=kduvs&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=kduvs&show_icons=true&theme=radical)
 
 [![Мои ЯП](https://github-readme-stats.vercel.app/api/top-langs/?username=kduvs&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=kduvs&layout=compact) -->
